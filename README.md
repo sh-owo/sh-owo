@@ -1,4 +1,4 @@
-## 👋 Hi, I’m sh-owo
+# 👋 Hi, I’m sh-owo
 ---
  I'm SoftwareDevloper
 
@@ -21,7 +21,9 @@
 
 ---
 
-<p align="center"">
+
+##Stats
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sh-owo&hide=stars&rank_icon=hide&rank_icon=github&hide_rank=true&theme=dracula" 
     style="width: 70%; height: 137px;" 
