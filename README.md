@@ -13,6 +13,7 @@
 ### Technologies
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -23,7 +24,7 @@
 <p align="center"">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sh-owo&hide=stars&rank_icon=hide&rank_icon=github&hide_rank=true&theme=dracula" 
-    style="height: 137px;" 
+    style="width: 70%; height: 137px;" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-owo&size_weight=0.5&count_weight=0.5&hide=ASP.NET,ShaderLab&layout=compact&theme=dracula" 
