@@ -1,10 +1,11 @@
 # 👋 Hi, I’m sh-owo
 ---
- I am an AI developer in South Korea. 
- My expertise spans NLP, CV, and RL, with a strong interest in game development and backend technologies. 
- I love learning new things and enjoy making geeky, fun, and interesting projects.
+<p>I am an AI developer in South Korea. </p>
+<p>My expertise spans NLP, CV, and RL, with a strong interest in game development and backend technologies. 
+ I love learning new things and enjoy making geeky, fun, and interesting projects.</p>
+ 
 
-## 🧰  My toolbox
+## 🧰  My tools
 ### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
