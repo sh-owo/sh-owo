@@ -28,7 +28,7 @@
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-owo&size_weight=0.5&count_weight=0.5&hide=ASP.NET,ShaderLab&layout=compact&theme=dracula" 
-    style="width: auto; height: 137px" 
+    style="height: 137px" 
   />
 </p>
 
