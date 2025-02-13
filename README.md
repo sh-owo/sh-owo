@@ -31,11 +31,10 @@
     style="height: 150px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-owo&size_weight=0.5&count_weight=0.5&hide=ASP.NET,ShaderLab,HLSL&layout=compact&theme=dracula" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-owo&size_weight=0.1&count_weight=0.9&hide=ASP.NET,ShaderLab,HLSL&layout=compact&theme=dracula" 
     style="height: 150px" 
   />
 </p>
-
 
 
 
