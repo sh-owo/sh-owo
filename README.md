@@ -1,6 +1,6 @@
 # 👋 Hi, I’m sh-owo
 ---
-<p>I am an AI developer in South Korea. </p>
+<p>I am a student learning AI in South Korea.</p>
 <p>My expertise spans NLP, CV, and RL, with a strong interest in game development and backend technologies. 
  I love learning new things and enjoy making geeky, fun, and interesting projects.</p>
  
@@ -21,20 +21,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
----
 
-
-## Stats
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sh-owo&hide=stars&rank_icon=hide&rank_icon=github&hide_rank=true&theme=dracula" 
-    style="height: 150px;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-owo&size_weight=0.1&count_weight=0.9&hide=ASP.NET,ShaderLab,HLSL&layout=compact&theme=dracula" 
-    style="height: 150px" 
-  />
-</p>
 
 
 
